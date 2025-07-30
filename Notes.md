@@ -1,0 +1,6 @@
+- composer install
+- npm install
+- php artisan key:generate
+- setup .env
+- php artisan migrate
+- composer run dev / npm run dev
